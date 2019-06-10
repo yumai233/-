@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Cache-Control" "no-transform " />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="format-detection" content="telephone=no"/>
+<title>柒小物</title>
+<link rel="canonical" href="qxwxq.com">        
+<meta name="description" content="到底是有多在乎，才会拼了命的下赌注 。">
+<meta name="keywords" content="柒小物">
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="柒小物">
+<meta itemprop="description" content="到底是有多在乎，才会拼了命的下赌注 。">
+<meta itemprop="image" content="//qxwxq.com/logo/logo.png">
+<!-- Twitter meta -->
+<meta name="twitter:card" content="summary" />
+<!-- Open Graph meta -->
+<meta property="og:title" content="柒小物" />
+<meta property="og:description" content="到底是有多在乎，才会拼了命的下赌注 。" />
+<meta property="og:site_name" content="柒小物" />
+<meta property="og:url" content="qxwxq.com" />
+<meta property="og:image" content="//qxwxq.com/logo/logo.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="300" />
+<meta property="og:image:height" content="300" />
+<meta property="og:type" content="article" />
+<!-- Wechat meta -->
+<meta property="weixin:timeline_title" content="柒小物" />
+<meta property="weixin:chat_title" content="柒小物" />
+<meta property="weixin:description" content="到底是有多在乎，才会拼了命的下赌注 。" />
+<meta property="weixin:image" content="//qxwxq.com/logo/logo.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="//qxwxq.com/logo/logo.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//qxwxq.com/logo/logo.png">
+<link rel="icon" type="image/png" sizes="48x48" href="//qxwxq.com/logo/logo.png">
+<!-- iOS touch icon -->
+<link rel="apple-touch-icon-precomposed" href="//qxwxq.com/logo/logo.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="//qxwxq.com/logo/logo.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="//qxwxq.com/logo/logo.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="//qxwxq.com/logo/logo.png">
+<link rel="apple-touch-icon-precomposed" sizes="167x167" href="//qxwxq.com/logo/logo.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="//qxwxq.com/logo/logo.png">
+<link rel="apple-touch-icon-precomposed" sizes="200x200" href="//qxwxq.com/logo/logo.png">
+<!-- For Android -->
+<link rel="icon" sizes="128x128" href="//qxwxq.com/logo/logo.png">
+<link rel="icon" sizes="192x192" href="//qxwxq.com/logo/logo.png">
+<!-- For -->	
+<meta name="theme-color" content="#61c4ed">
+<link rel="stylesheet" href="//qxwxq.com/css/style.css?v=0808">
+<script src="//qxwxq.com/js/js.js?v=0808"></script>
+<script src="//qxwxq.com/js/js2.js?v=0808"></script>
+<script src="//qxwxq.com/sl/api.php?encode=js"></script>
+<script type="text/javascript">
+wx.onMenuShareAppMessage({
+          title: '柒小物',
+          desc: '到底是有多在乎，才会拼了命的下赌注。',
+          link: 'qxwxq.com',
+          imgUrl: '//qxwxq.com/logo/logo.png',
+          trigger: function (res) {
+            // 不要尝试在trigger中使用ajax异步请求修改本次分享的内容，因为客户端分享操作是一个同步操作，这时候使用ajax的回包会还没有返回
+            // alert('用户点击发送给朋友');
+          },
+          success: function (res) {
+            // alert('已分享');
+          },
+          cancel: function (res) {
+            // alert('已取消');
+          },
+          fail: function (res) {
+            // alert(JSON.stringify(res));
+          }
+        });
+
+        wx.onMenuShareTimeline({
+          title: '柒小物',
+          link: 'qxwxq.com',
+          imgUrl: '//qxwxq.com/logo/logo.png',
+          trigger: function (res) {
+            // 不要尝试在trigger中使用ajax异步请求修改本次分享的内容，因为客户端分享操作是一个同步操作，这时候使用ajax的回包会还没有返回
+            // alert('用户点击分享到朋友圈');
+          },
+          success: function (res) {
+            // alert('已分享');
+          },
+          cancel: function (res) {
+            // alert('已取消');
+          },
+          fail: function (res) {
+            // alert(JSON.stringify(res));
+          }
+        });
+</script>
+</head>
+<body>
+<br><br><br>
+<div class="cs">
+	<img src="//qxwxq.com/logo/logo.png" id="logo">
+	<h1><strong>柒小物</strong></h1>
+	<br><br><br><br><br><br>
+<script>sl()</script>
+	<br><br><br><br>
+	<a href="javascript:if(confirm('要删除“不开心”吗？'))location='http://qm.qq.com/cgi-bin/qm/qr?k=vIyuFrnT1u4I_5L6Kgewzo04Qj04cobr'"><button class="btn-6">加我QQ</span></button></a>
+	<a href="javascript:if(confirm('端午节要快乐鸭！'))location='https://mqq.tenpay.com/qrhb?c=3866#ChAQAARpARkGBzYAEWmEVmEAEjCjkYbRF+YScW+Vx5UFBKd/j5nan6c6HB+sMKfaR1bebV5VeU9jH7WnyW0K6Yldm4I='"><button class="btn-1">端午节快乐</span></button></a>
+	<a href="http://www.hldcsgjfwh.com/wecharHuludao/busLineSearch1-3.html"><button class="btn-2">实时公交</button></a>
+	<br>
+		<br>
+<script>document.body.oncopy=function(){alert("复制成功！");}</script>
+ <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?ad6991e5c19f423eef847906af776c8d";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<audio src="//qxwxq.com/yyapi.php"  loop="loop" autoplay="autoplay"/>
+<div><div><div><div>
+</body>
+</html>

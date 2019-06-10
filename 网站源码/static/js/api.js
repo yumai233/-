@@ -1,0 +1,1 @@
+function sl(){document.write('自命不凡.');}
