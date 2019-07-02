@@ -1,0 +1,1 @@
+function sl(){document.write('不断奔跑，才是人生.');}
